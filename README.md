@@ -1,21 +1,3 @@
-# Selam dostlarım
-- Adım Yusuf 17 yaşındayım
-- 1 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, swift]
-- Discord adresim: YUSUF_SMSK#0666, [discord.gg/6yqQFErEUx](discord.gg/6yqQFErEUx)
-- Web Sitem: (şu anlık yok)
-- Aklınıza takılan bir sorun olursa sosyal medya hesaplarımdan ulaşabilirsiniz
-- Everything you can imagine is real -
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=link)](link)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-quare&labelColor=1ED760&logo=spotify&logoColor=white&link=link)](link)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yusfsmsk&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YusufSmsk&theme=dark&hide_border=true&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 <h1 align="center">Merhaba 👋, Ben Yusuf</h1>
 <h3 align="center">Bilişim 12.sınıf öğrencisiyim</h3>
 
@@ -23,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufsmsk" alt="yusufsmsk" /></a> </p>
 
-- 🔭 Çalıştığım porje [KrakenBot](-)
+- 🔭 Çalıştığım porje KrakenBot
 
 - 🌱 Öğrendiğim dil **swift programlama dili**
 
@@ -44,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufsmsk&show_icons=true&locale=en&layout=compact" alt="yusufsmsk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsmsk&show_icons=true&locale=tr" alt="yusufsmsk" /></p>
+--><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsmsk&show_icons=true&locale=tr" alt="yusufsmsk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsmsk&theme=dark" alt="yusufsmsk" /></p>
