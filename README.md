@@ -25,5 +25,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Yusfsmsk&show_icons=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=YusufSmsk&theme=dark&hide_border=true&locale=tr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 https://discordturkiye.com/konular/github-icin-mukemmel-ozellik.5038/
