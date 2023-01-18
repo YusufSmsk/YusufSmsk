@@ -11,13 +11,13 @@
 
 - 👨‍💻 Projelerimi yayınladığım adres [https://github.com/YusufSmsk?tab=projects](https://github.com/YusufSmsk?tab=projects)
 
-- 📫 Bana ulaşabileceğin adres **muhammedyusuf1356@gmail.com**
+- 📫 Bana ulaşabileceğin adres **mysfsmsk@gmail.com**
 
 - ⚡ Hoşlandığım şeyler **Kitap okumak, Öğrenmek, Çalışmak, Kod yazmak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ysf_simsek0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysf_simsek0" height="30" width="40" /></a>
+<a href="https://instagram.com/Ysf_Smsk0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysf_simsek0" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/6yqQFErEUx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6yqQFErEUx" height="30" width="40" /></a>
 </p>
 
