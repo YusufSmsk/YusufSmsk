@@ -11,8 +11,6 @@
 
 - 👨‍💻 Projelerimi yayınladığım adres [https://github.com/YusufSmsk?tab=projects](https://github.com/YusufSmsk?tab=projects)
 
-- 💻 Web sitem www.yusufsimsek.me [www.yusufsimsek.me](www.yusufsimsek.me)
-
 - 📫 Bana ulaşabileceğin adres **mysfsmsk@gmail.com**
 
 - ⚡ Hoşlandığım şeyler **Kitap okumak, Öğrenmek, Çalışmak, Kod yazmak**
