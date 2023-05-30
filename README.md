@@ -15,7 +15,7 @@
 
 - ⚡ Hoşlandığım şeyler **Kitap okumak, Öğrenmek, Çalışmak, Kod yazmak**
 
-![<discord>](https://img.shields.io/badge/<Bana buradan ulaş>-<purple>?style=for-the-badge&logo=<discord>&logoColor=<purple>)
+![<discord>](https://img.shields.io/badge/Bana buradan ulas-<purple>?style=for-the-badge&logo=<discord>&logoColor=<purple>)
 
 
 <h3 align="left">Connect with me:</h3>
