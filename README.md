@@ -12,4 +12,4 @@
 - 👨‍💻 Projelerimi yayınladığım adres [Github](https://github.com/YusufSmsk?tab=projects)
 
 - 📫 Bana ulaşabileceğin adresler/You can reach me at; <p>
-| [Mail](mailto:mysfsmsk@gmail.com) | [Discord](mailto:mysfsmsk@gmail.com) | [Instagram](https://www.instagram.com/ysf_smsk0/)
+| [Mail](mailto:mysfsmsk@gmail.com) | [Discord](mailto:mysfsmsk@gmail.com) | [Instagram](https://www.instagram.com/ysf_smsk0/) |
