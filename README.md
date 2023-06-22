@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Yusuf</h1>
-<h3 align="center">Bilişim 12.sınıf öğrencisiyim</h3>
+<h3 align="center">Artık Mezun oldum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufsmsk&label=Profile%20views&color=0e75b6&style=flat" alt="yusufsmsk" /> </p>
 
